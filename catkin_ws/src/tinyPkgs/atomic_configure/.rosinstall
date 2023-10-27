@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/karim/catkin_ws/src/tinyPkgs/devel/setup.sh

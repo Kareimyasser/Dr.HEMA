@@ -1,0 +1,43 @@
+file(REMOVE_RECURSE
+  "/home/karim/catkin_ws/devel/include/laser_filters/BoxFilterConfig.h"
+  "/home/karim/catkin_ws/devel/include/laser_filters/IntensityFilterConfig.h"
+  "/home/karim/catkin_ws/devel/include/laser_filters/PolygonFilterConfig.h"
+  "/home/karim/catkin_ws/devel/include/laser_filters/RangeFilterConfig.h"
+  "/home/karim/catkin_ws/devel/include/laser_filters/ScanShadowsFilterConfig.h"
+  "/home/karim/catkin_ws/devel/include/laser_filters/SectorFilterConfig.h"
+  "/home/karim/catkin_ws/devel/include/laser_filters/SpeckleFilterConfig.h"
+  "/home/karim/catkin_ws/devel/lib/python3/dist-packages/laser_filters/cfg/BoxFilterConfig.py"
+  "/home/karim/catkin_ws/devel/lib/python3/dist-packages/laser_filters/cfg/IntensityFilterConfig.py"
+  "/home/karim/catkin_ws/devel/lib/python3/dist-packages/laser_filters/cfg/PolygonFilterConfig.py"
+  "/home/karim/catkin_ws/devel/lib/python3/dist-packages/laser_filters/cfg/RangeFilterConfig.py"
+  "/home/karim/catkin_ws/devel/lib/python3/dist-packages/laser_filters/cfg/ScanShadowsFilterConfig.py"
+  "/home/karim/catkin_ws/devel/lib/python3/dist-packages/laser_filters/cfg/SectorFilterConfig.py"
+  "/home/karim/catkin_ws/devel/lib/python3/dist-packages/laser_filters/cfg/SpeckleFilterConfig.py"
+  "/home/karim/catkin_ws/devel/share/laser_filters/docs/BoxFilterConfig-usage.dox"
+  "/home/karim/catkin_ws/devel/share/laser_filters/docs/BoxFilterConfig.dox"
+  "/home/karim/catkin_ws/devel/share/laser_filters/docs/BoxFilterConfig.wikidoc"
+  "/home/karim/catkin_ws/devel/share/laser_filters/docs/IntensityFilterConfig-usage.dox"
+  "/home/karim/catkin_ws/devel/share/laser_filters/docs/IntensityFilterConfig.dox"
+  "/home/karim/catkin_ws/devel/share/laser_filters/docs/IntensityFilterConfig.wikidoc"
+  "/home/karim/catkin_ws/devel/share/laser_filters/docs/PolygonFilterConfig-usage.dox"
+  "/home/karim/catkin_ws/devel/share/laser_filters/docs/PolygonFilterConfig.dox"
+  "/home/karim/catkin_ws/devel/share/laser_filters/docs/PolygonFilterConfig.wikidoc"
+  "/home/karim/catkin_ws/devel/share/laser_filters/docs/RangeFilterConfig-usage.dox"
+  "/home/karim/catkin_ws/devel/share/laser_filters/docs/RangeFilterConfig.dox"
+  "/home/karim/catkin_ws/devel/share/laser_filters/docs/RangeFilterConfig.wikidoc"
+  "/home/karim/catkin_ws/devel/share/laser_filters/docs/ScanShadowsFilterConfig-usage.dox"
+  "/home/karim/catkin_ws/devel/share/laser_filters/docs/ScanShadowsFilterConfig.dox"
+  "/home/karim/catkin_ws/devel/share/laser_filters/docs/ScanShadowsFilterConfig.wikidoc"
+  "/home/karim/catkin_ws/devel/share/laser_filters/docs/SectorFilterConfig-usage.dox"
+  "/home/karim/catkin_ws/devel/share/laser_filters/docs/SectorFilterConfig.dox"
+  "/home/karim/catkin_ws/devel/share/laser_filters/docs/SectorFilterConfig.wikidoc"
+  "/home/karim/catkin_ws/devel/share/laser_filters/docs/SpeckleFilterConfig-usage.dox"
+  "/home/karim/catkin_ws/devel/share/laser_filters/docs/SpeckleFilterConfig.dox"
+  "/home/karim/catkin_ws/devel/share/laser_filters/docs/SpeckleFilterConfig.wikidoc"
+  "CMakeFiles/laser_filters_gencfg"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang )
+  include(CMakeFiles/laser_filters_gencfg.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

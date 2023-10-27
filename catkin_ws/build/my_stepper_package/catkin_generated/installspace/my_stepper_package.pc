@@ -1,0 +1,8 @@
+prefix=/home/karim/catkin_ws/install
+
+Name: my_stepper_package
+Description: Description of my_stepper_package
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: std_msgs rospy roscpp message_runtime
